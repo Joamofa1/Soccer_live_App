@@ -18,4 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # How to run the Application
 - ```git clone "url"```
-- ```flutter pub get``` to  get all the various packages for the  program
+- ```flutter pub get``` to  get all the various updated packages for the  program
+- ```flutter clean``` incase packages does not get downloaded
+- ```flutter run```
